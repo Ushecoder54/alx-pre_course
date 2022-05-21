@@ -1,0 +1,7 @@
+echo "ALX" echo "ALX School" >> bash/alx
+echo "School" echo "The school is open!" >> bash/school
+
+git add .
+git commit -m "My personal work"
+git push
+pwd
